@@ -1,0 +1,38 @@
+body {
+  background-color: #e8751a;
+}
+nav ul {
+  list-style-type: decimal-leading-zero;
+}
+header {
+  background-color: #c51350;
+}
+section {
+  background-color: #fda403;
+  padding: 1.72cm;
+  margin: 0.5cm;
+}
+h1 {
+  color: pink;
+}
+h2 {
+  color: #8a1253;
+}
+#about {
+  background-color: #97cba9;
+}
+#boxmodel {
+  background-color: aliceblue;
+}
+#units {
+  background-color: #97cba9;
+}
+#fonts {
+  background-color: aqua;
+}
+.codebox {
+  background-color: darkkhaki;
+}
+section {
+  background-color: lightgreen;
+}
